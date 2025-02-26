@@ -12,6 +12,6 @@ chưa
 - Chọn file sau đó click chuột phải -> Properties, sau đó sẽ hiện lên 1 bảng
 - Chọn Security -> System hoặc Adminstrator -> OK
   
-Mở Command Prompt với đường dẫn tới folder chứa file test-mail-server-1.0.jar 
-Nhập lệnh "java -jar test-mail-server-1.0.jar -s 2225 -p 3335 -m ./" để khởi động chương trình
+- Mở Command Prompt với đường dẫn tới folder chứa file test-mail-server-1.0.jar 
+- Nhập lệnh "java -jar test-mail-server-1.0.jar -s 2225 -p 3335 -m ./" để khởi động chương trình
 Test Mail Server với port SMTP = 2225, port POP3 = 3335
